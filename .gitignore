@@ -1,0 +1,6 @@
+#.gitignore for the high-scores exercism.io exercise.  
+
+.vscode
+.exercism
+__pycache__
+.pytest_cache
